@@ -1,0 +1,11 @@
+<settings>
+    <setting id="usecustombackground" type="bool">false</setting>
+    <setting id="hidevizbackground" type="bool">false</setting>
+    <setting id="hidevideobackground" type="bool">false</setting>
+    <setting id="blurenabled" type="bool">false</setting>
+    <setting id="tmdbhelper.service" type="bool">false</setting>
+    <setting id="tmdbhelper.enableblur" type="bool">false</setting>
+    <setting id="tmdbhelper.enabledesaturate" type="bool">false</setting>
+    <setting id="tmdbhelper.enablecolors" type="bool">false</setting>
+    <setting id="CustomBackground" type="string"></setting>
+</settings>

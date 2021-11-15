@@ -1,0 +1,305 @@
+[2021-11-14 13:00:54] [Path Check] Started
+[2021-11-14 13:00:55] [Path Check] Good!
+[2021-11-14 13:00:55] [First Run] Showing Save Data Settings
+[2021-11-14 13:01:09] URL is not of a valid schema: http://
+[2021-11-14 13:01:09] [Current Build Check] Build Installed: 
+[2021-11-14 13:01:09] [Build Update Check] Next Check: 2019-01-01 00:00:00
+[2021-11-14 13:01:09] [Auto Install Repo] Not Enabled
+[2021-11-14 13:01:09] [Binary Detection] Eligible Binary Addons to Reinstall
+[2021-11-14 13:01:09] [Auto Update Wizard] Started
+[2021-11-14 13:01:09] URL is not of a valid schema: http://
+[2021-11-14 13:01:09] [Auto Update Wizard] Url for wizard file not valid: http://
+[2021-11-14 13:01:09] URL is not of a valid schema: http://
+[2021-11-14 13:01:09] [Notifications] Notifications file at http:// not formatted correctly.
+[2021-11-14 13:01:09] [Build Installed Check] Not Enabled
+[2021-11-14 13:01:09] [Trakt Data] Started
+[2021-11-14 13:01:09] [Trakt Data] Saving all Data
+[2021-11-14 13:01:09] [Debrid Data] Started
+[2021-11-14 13:01:09] [Debrid Data] Saving all Data
+[2021-11-14 13:01:10] [Login Info] Started
+[2021-11-14 13:01:10] [Login Info] Saving all Data
+[2021-11-14 13:01:10] Login Data Saved for TMDb - THE CREW
+[2021-11-14 13:01:10] [Auto Clean Up] Not Enabled
+[2021-11-14 13:40:47] plugin://plugin.program.openwizard/: 
+[2021-11-14 13:40:47] URL is not of a valid schema: http://
+[2021-11-14 13:40:47] URL is not of a valid schema: http://
+[2021-11-14 13:40:47] URL is not of a valid schema: http://
+[2021-11-14 13:40:50] plugin://plugin.program.openwizard/: [ mode: maint ] 
+[2021-11-14 13:40:51] plugin://plugin.program.openwizard/: [ mode: maint ] [ name: clean ] 
+[2021-11-14 13:40:53] plugin://plugin.program.openwizard/: [ mode: fullclean ] 
+[2021-11-14 13:40:57] C:\Users\johnn\AppData\Roaming\Kodi\cache\archive_cache
+[2021-11-14 13:40:57] [Success] wiped C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\script.module.simplecache 
+[2021-11-14 13:40:57] [Success] wiped C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.seren\providerModules\__pycache__ 
+[2021-11-14 13:40:57] [Success] wiped C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.seren\providerModules\a4kScrapers\__pycache__ 
+[2021-11-14 13:40:57] [Success] wiped C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.seren\providerModules\a4kScrapers\third_party\__pycache__ 
+[2021-11-14 13:40:57] [Success] wiped C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.seren\providerModules\a4kScrapers\third_party\aws_requests_auth\__pycache__ 
+[2021-11-14 13:40:57] [Success] wiped C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.seren\providerModules\a4kScrapers\third_party\cloudscraper\__pycache__ 
+[2021-11-14 13:40:57] [Success] wiped C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.seren\providerModules\a4kScrapers\third_party\cloudscraper\interpreters\__pycache__ 
+[2021-11-14 13:40:57] [Success] wiped C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.seren\providerModules\a4kScrapers\third_party\cloudscraper\reCaptcha\__pycache__ 
+[2021-11-14 13:40:57] [Success] wiped C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.seren\providerModules\a4kScrapers\third_party\cloudscraper\user_agent\__pycache__ 
+[2021-11-14 13:40:57] [Success] wiped C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.seren\providers\__pycache__ 
+[2021-11-14 13:40:57] [Success] wiped C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.seren\providers\a4kScrapers\__pycache__ 
+[2021-11-14 13:40:57] [Success] wiped C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.seren\providers\a4kScrapers\en\__pycache__ 
+[2021-11-14 13:40:57] [Success] wiped C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.seren\providers\a4kScrapers\en\hosters\__pycache__ 
+[2021-11-14 13:40:57] [Success] wiped C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.seren\providers\a4kScrapers\en\torrent\__pycache__ 
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\0be90c9724cd85cc10f44dc5b66b434a.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\1069839be801af8f04bed23807763ce8.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\134831c3d8b5a2faae27ae57cd8abac9.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\14fdc5be8f4669f0006c86dbe7c686d0.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\224aac372f21d6a43a9aea2cf45a6da9.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\266f4971d838592a6041d0b3a4b43594.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\28dd8ac91933e1d8f847a009103394ed.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\2b55c04429612f6d59a778b3bf096dbe.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\2e1f03b59a6dbb5571b1a4cef58dae23.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\2ec30d3284378a0dceb83cb424a0378c.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\306330c0a3d1144c4b0362e57f383e75.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\368a6d8fdd479aa625915e04559debf4.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\39f03a7d82516e2812505e770e7ab1d8.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\3a06ab30976013713bf6541935db62e2.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\3cf68ed796ed7ec48ae0115a11f7c80f.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\40b6f984512e5d59dfe213d3e44fb5fb.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\4261f4df3693711defdc22d2a424ef78.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\45047071844e52828b7928f00c378cd9.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\450cc4033f7573ad62e3162557890255.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\4bf5342edaadfe339f4d1f3aaee1cb76.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\4f531548de05ca34412ad34eb479f909.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\528e2c9c6f584f050d738cb9ed598b35.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\532233c64d2f5c476144bd9847c25b14.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\59f90fe13c617ff6504b84f0d745ef84.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\5ce7c0e44cf096fe773cc78579fb64ed.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\68cf80485daa51f76acfd64165857efd.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\6e6849c7d1c66e0a0cdbd968282ea552.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\6f16614c7405c05eaf2b9d0d964b7e01.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\703f0171fa1e2ea06f7d4accd849f375.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\7e614fe8f5a593007cd6d9b9dc0cc9df.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\8006fb99a853e97b7732ef66a33c845d.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\88e27dbbf207dd933b8309ebddb1eb7d.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\9c15aec82f895803c097e81f10b7f9fa.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\9e7ef9977b95ab202bee5f409cd0f7a6.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\9ed83aacb30ba779f35c051af94b9b13.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\a02a62aefab28e1ccb5137a2e572f3a8.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\a7787eeca75cf126677c06da6fccba4a.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\a8f427c2b2d3db1d0bbf2de87489577d.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\b76c860c855f3fa3041bb6193a5fadce.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\bcfb01e108045bccc92e3d87117cf8b1.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\bf685c227a968a9f0d1479f56483fa68.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\c823cd880f5b579dfe27d30640ddd4a0.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\cdcf50fda41f5007e028a6ea990c47b0.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\d00bf983452ea1c006dc146efd94bc46.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\e3e767e40e1659fa6546d1a89de85991.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\e4817ca40d90c759aec6ffe2d0294d17.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\e577adf2f9ec6f93ab89870dbdb67bcc.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\e746c0858c2d6229e8a07a21a9f34046.txt
+[2021-11-14 13:40:57] [Wiped] C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.program.autocompletion\Google\ee69442d7f533de741e49a9b4c3d28f8.txt
+[2021-11-14 13:40:57] [Failed] wiped cache in C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\plugin.video.seren\cache.db: cannot VACUUM from within a transaction
+[2021-11-14 13:40:57] Deleting File: C:\Users\johnn\AppData\Roaming\Kodi\userdata\Database\Textures13.db
+[2021-11-14 13:40:57] Deleting Folder: C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\script.extendedinfo\images
+[2021-11-14 13:40:57] Deleting Folder: C:\Users\johnn\AppData\Roaming\Kodi\userdata\Thumbnails\
+[2021-11-14 13:40:57] Deleting Folder: C:\Users\johnn\AppData\Roaming\Kodi\userdata\addon_data\script.module.metadatautils\animatedgifs
+[2021-11-14 13:40:58] plugin://plugin.program.openwizard/: [ mode: maint ] [ name: clean ] 
+[2021-11-14 13:41:08] plugin://plugin.program.openwizard/: [ mode: maint ] 
+[2021-11-14 13:41:11] plugin://plugin.program.openwizard/: [ mode: maint ] [ name: backup ] 
+[2021-11-14 13:41:15] plugin://plugin.program.openwizard/: [ mode: backup ] [ action: build ] 
+[2021-11-14 13:41:25] [Convert Paths to Special] Complete
+[2021-11-14 13:41:25] Checking context.seren for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\context.seren\addon.xml
+[2021-11-14 13:41:25] Checking game.controller.default for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\game.controller.default\addon.xml
+[2021-11-14 13:41:25] Checking game.controller.snes for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\game.controller.snes\addon.xml
+[2021-11-14 13:41:25] Checking inputstream.adaptive for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\inputstream.adaptive\addon.xml
+[2021-11-14 13:41:25] Checking metadata.album.universal for platform-dependence...
+[2021-11-14 13:41:25] Checking metadata.artists.universal for platform-dependence...
+[2021-11-14 13:41:25] Checking metadata.common.imdb.com for platform-dependence...
+[2021-11-14 13:41:25] Checking metadata.common.themoviedb.org for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\metadata.common.themoviedb.org\addon.xml
+[2021-11-14 13:41:25] Checking metadata.themoviedb.org.python for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\metadata.themoviedb.org.python\addon.xml
+[2021-11-14 13:41:25] Checking metadata.tvshows.themoviedb.org.python for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\metadata.tvshows.themoviedb.org.python\addon.xml
+[2021-11-14 13:41:25] Checking metadata.tvshows.themoviedb.org for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\metadata.tvshows.themoviedb.org\addon.xml
+[2021-11-14 13:41:25] Checking plugin.program.autocompletion for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\plugin.program.autocompletion\addon.xml
+[2021-11-14 13:41:25] Checking plugin.program.openwizard for platform-dependence...
+[2021-11-14 13:41:25] Checking plugin.video.Rising.Tides for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\plugin.video.Rising.Tides\addon.xml
+[2021-11-14 13:41:25] Checking plugin.video.fen for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\plugin.video.fen\addon.xml
+[2021-11-14 13:41:25] Checking plugin.video.seren for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\plugin.video.seren\addon.xml
+[2021-11-14 13:41:25] Checking plugin.video.thecrew for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\plugin.video.thecrew\addon.xml
+[2021-11-14 13:41:25] Checking plugin.video.themoviedb.helper for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\plugin.video.themoviedb.helper\addon.xml
+[2021-11-14 13:41:25] Checking repository.Rising.Tides for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\repository.Rising.Tides\addon.xml
+[2021-11-14 13:41:25] Checking repository.a4ksubtitles for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\repository.a4ksubtitles\addon.xml
+[2021-11-14 13:41:25] Checking repository.nixgates for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\repository.nixgates\addon.xml
+[2021-11-14 13:41:25] Checking repository.openwizard for platform-dependence...
+[2021-11-14 13:41:25] Checking repository.thecrew for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\repository.thecrew\addon.xml
+[2021-11-14 13:41:25] Checking repository.tikipeter for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\repository.tikipeter\addon.xml
+[2021-11-14 13:41:25] Checking resource.images.weathericons.white for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\resource.images.weathericons.white\addon.xml
+[2021-11-14 13:41:25] Checking script.embuary.helper for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\script.embuary.helper\addon.xml
+[2021-11-14 13:41:25] Checking script.embuary.info for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\script.embuary.info\addon.xml
+[2021-11-14 13:41:25] Checking script.globalsearch for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\script.globalsearch\addon.xml
+[2021-11-14 13:41:25] Checking script.image.resource.select for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\script.image.resource.select\addon.xml
+[2021-11-14 13:41:25] Checking script.module.arrow for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\script.module.arrow\addon.xml
+[2021-11-14 13:41:25] Checking script.module.autocompletion for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\script.module.autocompletion\addon.xml
+[2021-11-14 13:41:25] Checking script.module.beautifulsoup4 for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\script.module.beautifulsoup4\addon.xml
+[2021-11-14 13:41:25] Checking script.module.certifi for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\script.module.certifi\addon.xml
+[2021-11-14 13:41:25] Checking script.module.chardet for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\script.module.chardet\addon.xml
+[2021-11-14 13:41:25] Checking script.module.dateutil for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\script.module.dateutil\addon.xml
+[2021-11-14 13:41:25] Checking script.module.fenomscrapers for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\script.module.fenomscrapers\addon.xml
+[2021-11-14 13:41:25] Checking script.module.future for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\script.module.future\addon.xml
+[2021-11-14 13:41:25] Checking script.module.httplib2 for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\script.module.httplib2\addon.xml
+[2021-11-14 13:41:25] Checking script.module.idna for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\script.module.idna\addon.xml
+[2021-11-14 13:41:25] Checking script.module.inputstreamhelper for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\script.module.inputstreamhelper\addon.xml
+[2021-11-14 13:41:25] Checking script.module.kodi-six for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\script.module.kodi-six\addon.xml
+[2021-11-14 13:41:25] Checking script.module.myaccounts for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\script.module.myaccounts\addon.xml
+[2021-11-14 13:41:25] Checking script.module.myconnpy for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\script.module.myconnpy\addon.xml
+[2021-11-14 13:41:25] Checking script.module.requests for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\script.module.requests\addon.xml
+[2021-11-14 13:41:25] Checking script.module.resolveurl for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\script.module.resolveurl\addon.xml
+[2021-11-14 13:41:25] Checking script.module.routing for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\script.module.routing\addon.xml
+[2021-11-14 13:41:25] Checking script.module.simplecache for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\script.module.simplecache\addon.xml
+[2021-11-14 13:41:25] Checking script.module.simpleeval for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\script.module.simpleeval\addon.xml
+[2021-11-14 13:41:25] Checking script.module.simplejson for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\script.module.simplejson\addon.xml
+[2021-11-14 13:41:25] Checking script.module.six for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\script.module.six\addon.xml
+[2021-11-14 13:41:25] Checking script.module.soupsieve for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\script.module.soupsieve\addon.xml
+[2021-11-14 13:41:25] Checking script.module.thecrew for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\script.module.thecrew\addon.xml
+[2021-11-14 13:41:25] Checking script.module.typing_extensions for platform-dependence...
+[2021-11-14 13:41:25] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\script.module.typing_extensions\addon.xml
+[2021-11-14 13:41:26] Checking script.module.unidecode for platform-dependence...
+[2021-11-14 13:41:26] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\script.module.unidecode\addon.xml
+[2021-11-14 13:41:26] Checking script.module.urllib3 for platform-dependence...
+[2021-11-14 13:41:26] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\script.module.urllib3\addon.xml
+[2021-11-14 13:41:26] Checking script.realdebrid for platform-dependence...
+[2021-11-14 13:41:26] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\script.realdebrid\addon.xml
+[2021-11-14 13:41:26] Checking script.skin.helper.colorpicker for platform-dependence...
+[2021-11-14 13:41:26] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\script.skin.helper.colorpicker\addon.xml
+[2021-11-14 13:41:26] Checking script.skinshortcuts for platform-dependence...
+[2021-11-14 13:41:26] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\script.skinshortcuts\addon.xml
+[2021-11-14 13:41:26] Checking script.thecrew.artwork for platform-dependence...
+[2021-11-14 13:41:26] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\script.thecrew.artwork\addon.xml
+[2021-11-14 13:41:26] Checking script.thecrew.metadata for platform-dependence...
+[2021-11-14 13:41:26] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\script.thecrew.metadata\addon.xml
+[2021-11-14 13:41:26] Checking script.tikiart for platform-dependence...
+[2021-11-14 13:41:26] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\script.tikiart\addon.xml
+[2021-11-14 13:41:26] Checking service.subtitles.a4ksubtitles for platform-dependence...
+[2021-11-14 13:41:26] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\service.subtitles.a4ksubtitles\addon.xml
+[2021-11-14 13:41:26] Checking service.xbmc.versioncheck for platform-dependence...
+[2021-11-14 13:41:26] Checking skin.arctic.zephyr.mod for platform-dependence...
+[2021-11-14 13:41:26] Checking C:\Users\johnn\AppData\Roaming\Kodi\addons\skin.arctic.zephyr.mod\addon.xml
+[2021-11-14 13:41:26] Checking temp for platform-dependence...
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore kodi.log - Log File
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore addon.xml - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore inputstream.adaptive.dll - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore ssd_wv.dll - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore settings.xml - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on
+[2021-11-14 13:41:26] [Back Up] Type = build: Ignore strings.po - Binary Add-on

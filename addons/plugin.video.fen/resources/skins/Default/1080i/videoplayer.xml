@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<window>
+    <controls>
+        <!-- Video and Progress Bar -->
+        <control type="group">
+            <control type="image">
+                <width>1920</width>
+                <height>1080</height>
+                <texture>common/black.png</texture>
+            </control>
+            <control type="videowindow">
+                <width>1920</width>
+                <height>1080</height>
+            </control>
+            <control type="image">
+                <left>20</left>
+                <top>20</top>
+                <width>60</width>
+                <height>60</height>
+                <aspectratio aligny="top">keep</aspectratio>
+                <texture colordiffuse="B3CCCCCC">common/fen.png</texture>
+            </control>
+            <control type="label">
+                <top>20</top>
+                <left>1600</left>
+                <width max="300">auto</width>
+                <height>20</height>
+                <font>font10</font>
+                <align>right</align>
+                <aligny>bottom</aligny>
+                <label>[COLOR B3CCCCCC][B]$ADDON[plugin.video.fen 33061][/B][/COLOR]</label>
+            </control>
+            <control type="progress" id="5000">
+                <description>Progressbar</description>
+                <top>1040</top>
+                <left>50</left>
+                <width>1820</width>
+                <height>20</height>
+                <info>Player.Progress</info>
+            </control>
+        </control>
+    </controls>
+</window>

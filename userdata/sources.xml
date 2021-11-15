@@ -1,0 +1,30 @@
+<sources>
+    <programs>
+        <default pathversion="1"></default>
+    </programs>
+    <video>
+        <default pathversion="1"></default>
+    </video>
+    <music>
+        <default pathversion="1"></default>
+    </music>
+    <pictures>
+        <default pathversion="1"></default>
+    </pictures>
+    <files>
+        <default pathversion="1"></default>
+        <source>
+            <name>fen</name>
+            <path pathversion="1">https://github.com/Tikipeter/repository.tikipeter/raw/master/zip/repository.tikipeter/repository.tikipeter-0.0.6.zip/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>peno</name>
+            <path pathversion="1">https://peno64.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </files>
+    <games>
+        <default pathversion="1"></default>
+    </games>
+</sources>
